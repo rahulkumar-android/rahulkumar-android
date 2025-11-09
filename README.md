@@ -52,6 +52,7 @@ Developed professional websites for Canadian clients.
 📧 **Email:** rahul.202409001@tulas.edu.in  
 🔗 **LinkedIn:** [linkedin.com/in/mr-rahul-kumar-](https://www.linkedin.com/in/mr-rahul-kumar-)  
 💻 **GitHub:** [github.com/rahulkumar-android](https://github.com/rahulkumar-android)  
+🌐 Live Portfolio → [rahulkumar-mca.vercel.app](https://rahulkumar-mca.vercel.app/)
 📱 **Phone:** +91 91109 72960  
 
 ---
